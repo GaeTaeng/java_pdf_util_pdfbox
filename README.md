@@ -1,5 +1,7 @@
 # to be
-java pdf util use pdfbox
+PDFDocument 라는 클래스를 만들어 전체적인 PDF관련 작업을 간편하게 진행하기 위함
+(+ 회사에서 작업하는데 너무 삽질을 많이해서 혼자 만들어보고 적용해보기 위함)
+
 ![스크린샷 2022-11-24 11 24 17](https://user-images.githubusercontent.com/41108735/203680165-86ddeb4c-d889-4f07-b43e-f03329c59e43.png)
 
 
