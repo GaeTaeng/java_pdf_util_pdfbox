@@ -5,7 +5,7 @@ PDFDocument 라는 클래스를 만들어 전체적인 PDF관련 작업을 간�
 ![스크린샷 2022-11-24 11 24 17](https://user-images.githubusercontent.com/41108735/203680165-86ddeb4c-d889-4f07-b43e-f03329c59e43.png)
 
 
-#example
+#사용예제 페이지 넘김등 자동 기능 
 ```
 PDFDocument pdfDocument = PDFDocument.createPDFDocument("A4");
 pdfDocument.newPage("A4");
